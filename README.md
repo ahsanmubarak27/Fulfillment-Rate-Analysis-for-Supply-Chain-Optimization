@@ -1,7 +1,7 @@
-# Fulfillment Rate Analysis in a Beauty Supply Chain
+# Fulfillment Rate Analysis for Supply Chain Optimization
 
 ## Overview
-This project analyzes the fulfillment rate performance of a beauty supply chain company, with a current rate of **73.65%**, which is below industry benchmarks. The goal is to identify possible factors driving low fulfillment rates using available operational data.
+This project analyzes the fulfillment rate for Supply Chain Optimization, with a current rate of **73.65%**, which is below industry benchmarks. The goal is to identify possible factors driving low fulfillment rates using available operational data.
 
 ## Dataset
 - **Source:** [Kaggle - Supply Chain Data](https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis)
